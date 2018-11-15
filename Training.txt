@@ -1,0 +1,10 @@
+
+
+Welcome To <Epam> FDP (Faculty Development Program).
+
+Coding Standards/Refractoring
+UNIT Testing and TDD
+OO Principles, OO Design Patterns
+AGILE
+CI/CD
+GIT
