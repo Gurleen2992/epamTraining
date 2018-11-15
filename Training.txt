@@ -9,7 +9,8 @@ AGILE
 CI/CD
 GIT
 
-
+Expectations from students:
+Design Thinking
 
 
 Thank You!!!
