@@ -4,7 +4,7 @@ Welcome To <Epam> FDP (Faculty Development Program).
 
 Coding Standards/Refractoring
 UNIT Testing and TDD
-OO Principles, OO Design Patterns
+OO Principles, OO Design Patterns (SOLID Principles)
 AGILE
 CI/CD
 GIT
